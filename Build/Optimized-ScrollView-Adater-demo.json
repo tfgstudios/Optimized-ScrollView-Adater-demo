@@ -1,0 +1,16 @@
+{
+"companyName": "TFG Studios",
+"productName": "OSA 5.1.2 - Demo",
+"productVersion": "5.1.2",
+"dataUrl": "Optimized-ScrollView-Adater-demo.data.unityweb",
+"wasmCodeUrl": "Optimized-ScrollView-Adater-demo.wasm.code.unityweb",
+"wasmFrameworkUrl": "Optimized-ScrollView-Adater-demo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.0f2"
+}
